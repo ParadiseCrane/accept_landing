@@ -5,6 +5,6 @@ import node from "@astrojs/node";
 // https://astro.build/config
 export default defineConfig({
   integrations: [purgecss()],
-  site: "https://business.accept-school.ru",
+  site: "https://accept-school.ru",
   base: "/",
 });
